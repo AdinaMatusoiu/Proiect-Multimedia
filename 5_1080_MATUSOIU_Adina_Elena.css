@@ -1,0 +1,29 @@
+
+.btn-group button
+{
+	background-color:#FFB6C1;
+    display: block;
+	color:black;
+	width:100%;
+	border: 6px solid purple;
+	padding: 10px 10px;
+}
+
+
+h1 {
+	
+	background-color: "pink";
+	font-family:Comic Sans MS;
+	color:purple;
+}
+
+p{
+	color:purple;
+	font-family:Comic Sans MS;
+}
+
+#draganddrop{
+	font-weight:bold;
+	margin-top:20px;
+	margin-bottom:20px;
+}
